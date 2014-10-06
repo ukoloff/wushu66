@@ -1,7 +1,8 @@
 name: Ушу в Екатеринбурге
 encoding: utf-8
 highliter: off
-exclude: 
+exclude:
 - README.md
+- CNAME
 to: wushu66.ru
 
